@@ -4,18 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="853447f1-7b6c-42d3-8e7f-c523044447ed" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Files/Tema 2/.idea/Tema 2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Files/Tema 2/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/IniciaciónALasMatematicasParaLaIngenieria.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/IniciaciónALasMatematicasParaLaIngenieria.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="853447f1-7b6c-42d3-8e7f-c523044447ed" name="Changes" comment="primer commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Files/Modules/funcionescustom.py" beforeDir="false" afterPath="$PROJECT_DIR$/Files/Modules/funcionescustom.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Files/Tema 1 Expresiones Numericas.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Files/Tema 1/Tema 1 Expresiones Numericas.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Files/Tema 1 Numeros Reales.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Files/Tema 1/Tema 1 Numeros Reales.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Files/Tema 1 Numeros.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Files/Tema 1/Tema 1 Numeros.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Files/Tema 1 Números-Enteros.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Files/Tema 1/Tema 1 Números-Enteros.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Files/Tema 1 Números-Racionales.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Files/Tema 1/Tema 1 Números-Racionales.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,5 +87,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="primer commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="primer commit" />
   </component>
 </project>
