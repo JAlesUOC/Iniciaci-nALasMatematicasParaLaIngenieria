@@ -151,3 +151,4 @@ def fraccionirreducible(num,dem):
     if resultado_mcd  != 1:
         num,dem = num/resultado_mcd ,dem/resultado_mcd
     return num,dem
+#%%
