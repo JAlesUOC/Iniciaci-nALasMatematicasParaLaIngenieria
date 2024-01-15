@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="853447f1-7b6c-42d3-8e7f-c523044447ed" name="Changes" comment="Ejemplo de expresión algebraica realizado" />
+    <list default="true" id="853447f1-7b6c-42d3-8e7f-c523044447ed" name="Changes" comment="prueba">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Files/Tema 2/Tema 2 Ecuaciones.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Files/Tema 2/Tema 2 Ecuaciones.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,18 +27,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "history": [
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
     {
-      "state": "OPEN",
-      "author": "JAlesUOC"
+      &quot;state&quot;: &quot;OPEN&quot;,
+      &quot;author&quot;: &quot;JAlesUOC&quot;
     }
   ],
-  "lastFilter": {
-    "state": "OPEN",
-    "author": "JAlesUOC"
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;author&quot;: &quot;JAlesUOC&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -56,16 +59,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Mardu/Documents/Universidad/Organizador/UOC/IniciacionALasMatematicasParaLaIngenieria/Files/Tema 2",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyDependenciesConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Mardu/Documents/Universidad/Organizador/UOC/IniciacionALasMatematicasParaLaIngenieria/Files/Tema 2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyDependenciesConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Mardu\Documents\Universidad\Organizador\UOC\IniciacionALasMatematicasParaLaIngenieria\Files\Tema 1" />
@@ -95,6 +98,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="primer commit" />
     <MESSAGE value="Ejemplo de expresión algebraica realizado" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ejemplo de expresión algebraica realizado" />
+    <MESSAGE value="prueba" />
+    <option name="LAST_COMMIT_MESSAGE" value="prueba" />
   </component>
 </project>
