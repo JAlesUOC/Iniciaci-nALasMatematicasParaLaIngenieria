@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/IniciacionALasMatematicasParaLaIngenieria.iml" filepath="$PROJECT_DIR$/.idea/IniciacionALasMatematicasParaLaIngenieria.iml" />
       <module fileurl="file://$PROJECT_DIR$/Files/.idea/.iml" filepath="$PROJECT_DIR$/Files/.idea/.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/IniciacionALasMatematicasParaLaIngenieria.iml" filepath="$PROJECT_DIR$/.idea/IniciacionALasMatematicasParaLaIngenieria.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Files/Tema 1/.idea/Tema 1.iml" filepath="$PROJECT_DIR$/Files/Tema 1/.idea/Tema 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Files/Tema 10/.idea/Tema 10.iml" filepath="$PROJECT_DIR$/Files/Tema 10/.idea/Tema 10.iml" />
     </modules>
   </component>
 </project>

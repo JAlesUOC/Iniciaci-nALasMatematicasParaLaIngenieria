@@ -4,9 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="853447f1-7b6c-42d3-8e7f-c523044447ed" name="Changes" comment="prueba">
+    <list default="true" id="853447f1-7b6c-42d3-8e7f-c523044447ed" name="Changes" comment="Continuación Tema 2">
+      <change afterPath="$PROJECT_DIR$/.idea/IniciacionALasMatematicasParaLaIngenieria.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/Algoritmos/algoritmos basicos.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/Tema 1/.idea/Tema 1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/Tema 1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/Tema 10/.idea/Tema 10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/Tema 10/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/Tema 10/Tema 10 Limites.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Files/Modules/funcionescustom.py" beforeDir="false" afterPath="$PROJECT_DIR$/Files/Modules/funcionescustom.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Files/Pruebas.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Files/Pruebas.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Files/Tema 1/Tema 1 Expresiones Numericas.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Files/Tema 1/Tema 1 Expresiones Numericas.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Files/Tema 1/Tema 1 Números-Racionales.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Files/Tema 1/Tema 1 Números-Racionales.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Files/Tema 2/Tema 2 Ecuaciones.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Files/Tema 2/Tema 2 Ecuaciones.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,16 +78,34 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Mardu/Documents/Universidad/Organizador/UOC/IniciacionALasMatematicasParaLaIngenieria/Files/Tema 2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyDependenciesConfigurable&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Mardu/Documents/Universidad/Organizador/UOC/IniciacionALasMatematicasParaLaIngenieria/Files/Tema 10&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Mardu\Documents\Universidad\Organizador\UOC\IniciacionALasMatematicasParaLaIngenieria\Files" />
       <recent name="C:\Users\Mardu\Documents\Universidad\Organizador\UOC\IniciacionALasMatematicasParaLaIngenieria\Files\Tema 1" />
       <recent name="C:\Users\Mardu\Documents\Universidad\Organizador\UOC\IniciaciónALasMatematicasParaLaIngenieria\Files" />
       <recent name="C:\Users\Mardu\Documents\Universidad\Organizador\UOC\IniciaciónALasMatematicasParaLaIngenieria\Files\Modules" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="tests" factoryName="Autodetect">
+      <module name="Tema 10" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -99,6 +130,7 @@
     <MESSAGE value="primer commit" />
     <MESSAGE value="Ejemplo de expresión algebraica realizado" />
     <MESSAGE value="prueba" />
-    <option name="LAST_COMMIT_MESSAGE" value="prueba" />
+    <MESSAGE value="Continuación Tema 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Continuación Tema 2" />
   </component>
 </project>

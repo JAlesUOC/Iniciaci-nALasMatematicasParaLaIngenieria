@@ -1,3 +1,5 @@
+from IPython.display import display,Math
+
 # Numeros Naturales
 def esdivisible (dividendo, divisor):
     """
@@ -151,4 +153,8 @@ def fraccionirreducible(num,dem):
     if resultado_mcd  != 1:
         num,dem = num/resultado_mcd ,dem/resultado_mcd
     return num,dem
+
+# Representacíon en Latex
+def mostrarLimiteLatex(expr, variable, valor):
+    Display(Math('\\limit_{{x\\to %i}}'%(valor)))
 #%%
